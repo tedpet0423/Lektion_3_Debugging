@@ -14,10 +14,6 @@ class Program
         {
             nums[i] = i * 5;
         }
-        // Skriv ut alla värden i arrayen med en foreach-loop
-        
-        
-        
         
         // ----------------------------  DEL 2  ----------------------------
         // Vi vill summera alla tal som är 100 eller mer detta ska bli 1225
