@@ -4,9 +4,7 @@ Ett litet konsolprogram i C# för att öva felsökning med debuggern.
 
 ## Kom igång
 
-Öppna mappen i Rider eller Visual Studio, eller kör från terminalen:
-
-    dotnet run
+Öppna mappen i Rider eller Visual Studio
 
 ## Uppgifter
 
